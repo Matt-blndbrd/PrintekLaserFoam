@@ -7,6 +7,7 @@ differences between this and the original:
 - custom buttons file is saved in the autotrace folder (so you can move them together with the release)
 - continuous jog is activated by default
 - default S-MAX value in the rasterconverter and svgconverter forms is 0
+- in the "?" menu there's only the log commands and the help link
 
 PrintekLaserFoam is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
