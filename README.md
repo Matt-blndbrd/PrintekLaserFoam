@@ -1,5 +1,5 @@
 # PrintekLaserFoam
-Laser and foam cutter software based on LaserGRBL (Copyright (c) 2016 Diego Settimi): https://github.com/arkypita/LaserGRBL
+Laser and foam cutter software based on LaserGRBL: https://github.com/arkypita/LaserGRBL
 
 differences between this and the original: 
 - software icon and name
