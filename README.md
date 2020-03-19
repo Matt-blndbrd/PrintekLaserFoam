@@ -2,11 +2,11 @@
 Laser and foam cutter software based on LaserGRBL (Copyright (c) 2016 Diego Settimi)
 
 differences between this and the original: 
-software icon and name
-no icons on the title bars
-custom buttons file is saved in the autotrace folder (so you can move them together with the release)
-continuous jog is activated by default
-default S-MAX value un the rasterconverter and svgconverter forms is 0
+- software icon and name
+- no icons on the title bars
+- custom buttons file is saved in the autotrace folder (so you can move them together with the release)
+- continuous jog is activated by default
+- default S-MAX value un the rasterconverter and svgconverter forms is 0
 
 PrintekLaserFoam is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
